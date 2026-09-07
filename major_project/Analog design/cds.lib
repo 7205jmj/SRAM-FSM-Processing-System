@@ -1,3 +1,0 @@
-SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
-DEFINE 6t_sram /home/student/major_project/6t_sram
-DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech
