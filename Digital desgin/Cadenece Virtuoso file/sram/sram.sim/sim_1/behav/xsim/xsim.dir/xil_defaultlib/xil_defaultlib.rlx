@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+J:/projects/sram/sram.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+J:/projects/sram/sram.srcs/sim_1/new/tb_sram_4x4.v,1788502586,verilog,,,,tb_sram_4x4,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+J:/projects/sram/sram.srcs/sources_1/new/sram_4x4.v,1788502586,verilog,,J:/projects/sram/sram.srcs/sources_1/new/sram_cell.v,,sram_4x4,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+J:/projects/sram/sram.srcs/sources_1/new/sram_cell.v,1788502586,verilog,,J:/projects/sram/sram.srcs/sim_1/new/tb_sram_4x4.v,,sram_cell,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

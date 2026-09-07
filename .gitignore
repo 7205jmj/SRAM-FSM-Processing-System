@@ -1,0 +1,70 @@
+# =========================
+# Cadence / Virtuoso
+# =========================
+*.log
+*.tmp
+*.swp
+*.bak
+*.cdslck
+*.cdslck.*
+*.oalib
+*.tag
+
+.assuraLastRun
+.assura_DRC.run
+.assura_tech.save
+.assura_vlw.state
+.cds_assuraui
+.drc.Last.state
+
+# Cadence generated simulation files
+*.alc
+*.bbc
+*.bcr
+*.dat
+*.dvc
+*.elf
+*.env
+*.erc
+*.erd
+*.err
+*.erx
+*.hdr
+*.ilc
+*.ler
+*.lyr
+*.map
+*.msg
+*.nrc
+*.rsf
+*.svi
+*.sum
+*.trm
+*.wrx
+*.xcn
+*.sts
+
+# =========================
+# Vivado / Xilinx
+# =========================
+*.jou
+*.str
+*.wdb
+*.wcfg
+*.ltx
+*.bit
+*.bin
+
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+*.runs/
+*.xpr.user
+
+# =========================
+# OS / temporary files
+# =========================
+Thumbs.db
+.DS_Store

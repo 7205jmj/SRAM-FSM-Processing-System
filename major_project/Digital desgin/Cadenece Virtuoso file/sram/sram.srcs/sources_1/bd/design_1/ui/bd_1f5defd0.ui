@@ -1,0 +1,22 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.23529",
+   "Default View_TopLeft":"-900,-67",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace inst sram_cell_0 -pg 1 -lvl 1 -x 50 -y 10 -defaultsOSRD
+preplace inst sram_cell_1 -pg 1 -lvl 1 -x 50 -y 390 -defaultsOSRD
+preplace inst sram_cell_2 -pg 1 -lvl 1 -x 50 -y 910 -defaultsOSRD
+preplace inst sram_cell_3 -pg 1 -lvl 1 -x 50 -y 530 -defaultsOSRD
+preplace inst sram_cell_4 -pg 1 -lvl 2 -x 450 -y 190 -defaultsOSRD
+preplace inst sram_cell_5 -pg 1 -lvl 2 -x 450 -y -200 -defaultsOSRD
+preplace inst sram_cell_6 -pg 1 -lvl 2 -x 450 -y 330 -defaultsOSRD
+preplace inst sram_cell_7 -pg 1 -lvl 2 -x 450 -y 520 -defaultsOSRD
+levelinfo -pg 1 -90 50 450 630
+pagesize -pg 1 -db -bbox -sgen -110 -640 780 1110
+"
+}
+{
+   "da_clkrst_cnt":"16"
+}
